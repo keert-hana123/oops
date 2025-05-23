@@ -1,4 +1,4 @@
-ublic class Scope {
+public class Scope {
     public void statename(){
         String name ="Tamil";
         name=name+"Nadu";
