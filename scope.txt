@@ -1,0 +1,11 @@
+ublic class Scope {
+    public void statename(){
+        String name ="Tamil";
+        name=name+"Nadu";
+        System.out.println("state name is:"+name);
+    }
+        public static void main(String args[]){
+            Scope s = new Scope();
+            s.statename();
+        }
+    }
