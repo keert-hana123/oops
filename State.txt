@@ -1,0 +1,12 @@
+public class State {
+     public void statename(){
+        String name;
+        name=name+"Nadu";
+        System.out.println("statename is:"+ name);
+}
+public static void main(String args []){
+        State s=new State();
+        s.statename();
+}
+    
+}
